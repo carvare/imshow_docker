@@ -13,7 +13,7 @@ def run():
 
     video_capture = cv2.VideoCapture(0)
 
-    show_help = False
+    show_help = True
     loop = True
     while loop:
         ret, frame = video_capture.read()
