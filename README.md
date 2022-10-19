@@ -21,10 +21,12 @@ bash runDocker.sh
 ```
  
  
-## Running imshow example 
+## Running imshow examples 
 
 ```
 python3 show.py
+python3 show_img.py
+python3 video.py
 ```
 
 
